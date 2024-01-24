@@ -19,3 +19,7 @@ html{
 .paragraph{
     color: #444343;
 }
+img{
+    width: 100%;
+    height: auto;
+}
